@@ -38,7 +38,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/aint-pro.git
+   git clone https://github.com/ashishapps-in/aint-pro.git
    ```
 2. Navigate to the project root and serve the files:
    ```bash
